@@ -18,7 +18,7 @@ function send_notification($new_status, $old_status, $post){
 		###########################################
 		#       YOUR API KEY GOES BELOW           #
 		###########################################
-		$server_key = 'YOUR_API_KEY_GOES_HERE';
+		$server_key = 'AIzaSyBs_Sc6BxA-lr94txtXUCIiejA44H-iui8';
 
 		$notification = array();
 		$notification['body'] = $post_excerpt;
